@@ -1,0 +1,10 @@
+gpuinfo==1.0.0a7
+markdown-it-py==3.0.0
+mdurl==0.1.2
+psutil==5.9.6
+py-cpuinfo==9.0.0
+Pygments==2.16.1
+pywin32==306
+rich==13.6.0
+screeninfo==0.8.1
+WMI==1.5.1
