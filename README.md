@@ -12,4 +12,4 @@
 
 ## Installation
 
-You can run `pywinfetch` directly from the source code and install the dependencies manually.
+You can run `winfetch.py` directly from the source code and install the dependencies manually.
